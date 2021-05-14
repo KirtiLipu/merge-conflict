@@ -1,3 +1,3 @@
 # merge-conflict
 
-Added feature by DeveloperA.
+This statement is modified by DeveloperA.
